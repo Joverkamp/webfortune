@@ -1,5 +1,5 @@
 # webfortune
-This program allows users to communicate to a linux command line via webserver to receive fourtunes, use cowsay, and a combination of both.
+This program allows users to communicate to a linux command line via webserver to receive fortunes, use cowsay, and a combination of both.
 
 # Building
 To build this application you must have docker installed. Then to create your docker image, run this command `docker build -t <repository> .` where `<repository>` is how you want to identify your docker image.
