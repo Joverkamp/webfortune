@@ -1,7 +1,6 @@
 FROM ubuntu:18.04
 
 WORKDIR /webfortune 
-#/app
 
 COPY requirements.txt requirements.txt
 
