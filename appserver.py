@@ -8,6 +8,8 @@ import subprocess
 
 app = Flask(__name__)
 app.secret_key = b'dfvjwewonl_x#pi*CO0@^z'
+app.config['DEBUG'] = True
+app.config['TESTING'] = True
 
 @app.route('/')
 def index():
