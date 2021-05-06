@@ -1,6 +1,6 @@
 # webfortune
 
-![example workflow](https://github.com/github/docs/actions/workflows/python-app.yml/badge.svg)
+![example workflow](https://github.com/Joverkamp/webfortune/actions/workflows/python-app.yml/badge.svg)
 
 This program allows users to communicate to a linux command line via webserver to receive fortunes, use cowsay, and a combination of both.
 
