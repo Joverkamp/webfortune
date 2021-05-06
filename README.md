@@ -13,7 +13,7 @@ To build this application you must have docker installed. Then to create your do
 Io run use the command `docker run -d -p <port>:5000 <repository>` where `<port>` is the port you want to bind, `5000` is the container port that is being bound to, and `repository` is the same identifier used when building the image.
 
 ### Stop running
-To stop running your docker container first run this command `docker ps`. Lookfor the image with your unique identifier and copy its container id. Then run this command to stop the container `docker stop <container id>.
+To stop running your docker container first run this command `docker ps`. Lookfor the image with your unique identifier and copy its container id. Then run this command to stop the container `docker stop <container id>`.
 
 # Running Locally
 
