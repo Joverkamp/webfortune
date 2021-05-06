@@ -6,11 +6,11 @@ This program allows users to communicate to a linux command line via webserver t
 
 ### Web commands
 
-<ip>:<port>/fortune/ - Displays a random fortune.
+`<ip>:<port>/fortune/` - gives you a random fortune.
 
-<ip>:<port>/cowsay/<message>/ - Displays a cow that's saying your entered message.
+`<ip>:<port>/cowsay/<message>/` - cow says message you give it.
 
-<ip>:<port>/cowfortune/ - Displays a cow that is telling you a random fortune.
+`<ip>:<port>/cowfortune/` - cow tells you a random fortune.
 
 
 # Running with Docker
